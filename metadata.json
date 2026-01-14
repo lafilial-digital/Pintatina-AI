@@ -1,0 +1,7 @@
+{
+  "name": "Pintatina AI",
+  "description": "Convierte tus fotos favoritas en hermosos dibujos para colorear únicos con inteligencia artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
